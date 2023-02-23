@@ -1,9 +1,0 @@
-[submodule "rable-remap"]
-	path = rable-remap
-	url = git@github.com:rizalfr/rable-remap.git
-[submodule "rable-v2-remap"]
-	path = rable-v2-remap
-	url = git@github.com:rizalfr/rable-v2-remap.git
-[submodule "arble-remap"]
-	path = arble-remap
-	url = git@github.com:rizalfr/arble-remap.git
