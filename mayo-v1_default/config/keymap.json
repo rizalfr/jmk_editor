@@ -1,0 +1,15 @@
+{
+  "id": "mayo-v1_default",
+  "keyboard": "Mayo V1",
+  "keyboard_name": "Mayo V1",
+  "keymap": "default",
+  "layer_names": [
+    "default"
+  ],
+  "layout": "LAYOUT",
+  "maintainer": "Jaykeeb",
+  "layers": [
+	  ["&kp TAB","&kp Q","&kp W","&kp E","&kp R","&kp T","&kp Y","&kp U","&kp I","&kp O","&kp P","&kp BACKSPACE","&kp LGUI","&kp A","&kp S","&kp D","&kp F","&kp G","&kp H","&kp J","&kp K","&kp L","&kp RET","&kp LSHFT","&kp Z","&kp X","&kp C","&kp V","&kp B","&kp N","&kp M","&kp COMMA","&kp DOT","&none","&kp LALT","&kp LEFT_CONTROL","&kp SPACE","&kp ESCAPE","&kp ESCAPE"]
+
+  ]
+}
